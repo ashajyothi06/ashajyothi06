@@ -1,102 +1,27 @@
-<h1 align="center">Hi 👋, I'm Ashajyothi Velpula</h1>
-<h3 align="center">AI Engineer • Full-Stack Developer • Building Intelligent Systems Every Day</h3>
+# 💫 About Me:
+🔭 I’m currently working on AI/ML projects and full-stack applications  <br>👯 I’m looking to collaborate on AI, ML, and real-world problem-solving projects  <br>🤝 I’m looking for help with advanced deep learning and system design  <br>🌱 I’m currently learning Generative AI, LLMs, and scalable ML systems  <br>💬 Ask me about Machine Learning, Deep Learning, Python, and MERN stack  <br>⚡ Fun fact: I love turning complex AI ideas into simple, usable products<br>
 
-<p align="center">
-  🚀 Turning ideas into production-ready AI + Web solutions  
-  <br>
-  🌟 Consistently sharing projects, experiments & research across GitHub, LinkedIn & X
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashajyothi-velpula/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ashajyothi_AI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashajyothivelpula0506@gmail.com) 
 
-## 💫 About Me
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashajyothi06&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ashajyothi06&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashajyothi06&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-🎯 **AI Engineer (Computer Vision + GenAI + NLP)**  
-🧩 **Full-Stack MERN + Java Developer**  
-⚙️ **Backend-heavy engineer, currently sharpening distributed systems + ML deployment**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ashajyothi06&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
-I’m passionate about building systems where **AI, engineering, and clean design meet** —  
-from model training → APIs → full-stack integration → cloud deployment.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I’m currently working on:
-
-- 🤖 **Real-time Human Action Recognition with Deep Learning (HAR using depth maps + posture estimation)**
-- 🧠 **GenAI workflows with prompt engineering + lightweight LLMs**
-- 💡 **Full-stack AI products using React, Node, Python & FastAPI**
-- ☁️ **Cloud-ready ML deployments (Docker + AWS + Render)**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ashajyothi06&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ashajyothi06&icon=2&color=8)](https://visitcount.itsvg.in)
 
-## 🌱 What I'm Learning Right Now
-- Advanced Deep Learning (Action Classification, Vision Transformers, RNN variants)  
-- LLM optimization + inference pipelines  
-- Scalable backend engineering (caching, queues, microservices)  
-- Building AI-powered web apps end-to-end  
-
----
-
-## 🤝 Collaboration Interests
-I’d love to collaborate on:
-
-- AI/ML/Deep Learning research projects  
-- CV + NLP applications  
-- Full-stack web apps with AI features  
-- Open-source ML or tools for developers  
-
----
-
-## 💬 Ask Me About
-
-React • Node.js • Express • Java • Python  
-REST APIs • ML Model Deployment • MongoDB • SQL • Cloud (AWS/GCP)  
-
----
-
-## ⚡ Fun Fact  
-I enjoy mentoring and contributing to open-source communities like **GirlScript Summer of Code**, and I love building projects that blend **AI + engineering + creativity**.
-
----
-
-## 📫 Reach Me  
-📧 **ashajyothivelpula06@gmail.com**  
-🌐 Posting daily on **GitHub • LinkedIn • X (@ashajyothi_ai)**  
-
----
-
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://twitter.com/ashajyothi_ai"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/ashajyothivelpula"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://instagram.com/ashajyothi_06"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/ashajyothivelpula"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/227r1a05c5"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-### 🚀 AI & Data Science  
-TensorFlow • PyTorch • OpenCV • scikit-learn • Pandas • NumPy • Seaborn  
-
-### ⚙️ Backend  
-Node.js • Express.js • FastAPI • Python • Java  
-
-### 💻 Frontend  
-React.js • JavaScript • Tailwind CSS • Bootstrap • HTML • CSS  
-
-### 🗄️ Databases  
-MongoDB • MySQL • PostgreSQL  
-
-### ☁️ DevOps / Cloud  
-Docker • AWS • Google Cloud • Git • CI/CD  
-
----
-
-## 📊 GitHub Activity  
-(Your GitHub stats cards here — optional)
-
----
-
-## ☕ Support My Work  
-<a href="https://ko-fi.com/ashajyothi06"><img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" /></a>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
