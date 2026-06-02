@@ -1,36 +1,298 @@
 <h1 align="center">Hi 👋, I'm Ashajyothi Velpula</h1>
-<h3 align="center">AI and MERN Stack enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashajyothi06&label=Profile%20views&color=0e75b6&style=flat" alt="ashajyothi06" /> </p>
+<h3 align="center">
+Data Analyst • Data Scientist • Generative AI Engineer • Computer Vision Engineer
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashajyothi06" alt="ashajyothi06" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [CampWiz NXT Frontend Migration (React)](https://phabricator.wikimedia.org/T414269)
-
-- 👯 I’m looking to collaborate on [Open Source React & MERN Stack Projects](https://github.com/ashajyothi06)
-
-- 🤝 I’m looking for help with **AI + Web Integration Projects (ML in Web Apps)**
-
-- 👨‍💻 All of my projects are available at [https://ashajyothiportfolio.vercel.app/](https://ashajyothiportfolio.vercel.app/)
-
-- 📝 I regularly write articles on [current trending technologies like AI](current trending technologies like AI)
-
-- 💬 Ask me about **React, MERN Stack, Next.js, AI/ML, API Integration**
-
-- 📫 How to reach me **ashajyothivelpula0506@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashajyothivelpula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashajyothivelpula" height="30" width="40" /></a>
+<p align="center">
+Passionate about building intelligent, data-driven solutions using Python, Machine Learning, LLMs, AI Agents, Computer Vision, and Analytics.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:ashajyothivelpula0506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://github.com/ashajyothi06">
+    <img src="https://img.shields.io/badge/GitHub-ashajyothi06-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://linkedin.com/in/ashajyothivelpula">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashajyothi%20Velpula-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashajyothi06&show_icons=true&locale=en&layout=compact" alt="ashajyothi06" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashajyothi06&show_icons=true&locale=en" alt="ashajyothi06" /></p>
+## 👩‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashajyothi06&" alt="ashajyothi06" /></p>
+I am a Computer Science student and passionate Data Analyst, Data Science, and Generative AI aspirant with hands-on experience in Python, data analytics, machine learning, AI-powered applications, computer vision, and full-stack development.
+
+I enjoy solving real-world problems using data, automation, AI agents, dashboards, and intelligent systems.
+
+- 🎓 B.Tech CSE student at CMR Technical Campus
+- 📊 Interested in Data Analytics, Data Science, and Business Intelligence
+- 🤖 Exploring Generative AI, LLMs, RAG, and AI Agents
+- 👁️ Worked on YOLOv8 object detection, ONNX, RKNN, and SAM 2.1 workflows
+- 🧠 Strong interest in building AI-powered products
+- 🌍 Open to international collaborations, internships, freelance projects, and open-source contributions
+
+---
+
+## 🚀 Current Focus
+
+- Data Analytics and Business Intelligence
+- Machine Learning and Model Evaluation
+- Generative AI Applications
+- AI Agents and Multi-Agent Workflows
+- Computer Vision and Object Detection
+- LLM-powered Automation
+- End-to-End AI Project Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+### Data Analytics & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+### Business Intelligence
+<p>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/KPI%20Tracking-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Business%20Reporting-6A5ACD?style=for-the-badge" />
+</p>
+
+### Generative AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Agents-FF6F00?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-008080?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-5C2D91?style=for-the-badge" />
+</p>
+
+### Computer Vision
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=opencv&logoColor=black" />
+  <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAM%202.1-111111?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RKNN-FF4500?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Netron-4B0082?style=for-the-badge" />
+</p>
+
+### Backend & Databases
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FF5733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code" />
+</p>
+
+---
+
+## 💼 Experience
+
+### AI Fullstack Developer Intern — Gyaini Gini Pvt Ltd
+**Apr 2026 – Present | Remote**
+
+- Trained and tested YOLOv8n object detection models and generated `best.pt` weights.
+- Verified detection outputs on sample images using computer vision workflows.
+- Explored SAM 2.1, ONNX/RKNN model conversion, and ONNX architecture visualization using Netron.
+- Worked in Linux server environments and executed C++ files for deployment workflow testing.
+
+---
+
+## 🔥 Featured Projects
+
+### 1. MCP-AI Intelligent Project Allocation System
+**Python | LLMs | AI Agents | NLP | Recommendation System**
+
+Built an intelligent recommendation system that matches projects with candidates using skill-based analysis, NLP techniques, LLMs, and multi-agent workflows.
+
+**Highlights**
+- Candidate skill extraction
+- Project requirement analysis
+- AI-agent-based decision workflow
+- Custom match scoring
+- Candidate ranking and recommendation
+
+---
+
+### 2. HR Analytics Dashboard
+**Tableau | Advanced Excel | Statistics | KPI Tracking**
+
+Created an interactive HR analytics dashboard to analyze employee attrition, active employees, average age, department-wise attrition, and job satisfaction.
+
+**Highlights**
+- Cleaned HR data in Excel
+- Removed duplicates and handled missing values
+- Created KPI cards and interactive filters
+- Helped identify attrition patterns and retention insights
+
+---
+
+### 3. Finance Dashboard with Analytics
+**React.js | Node.js | MongoDB | Analytics**
+
+Developed a finance analytics dashboard for financial data aggregation, preprocessing, trend analysis, and reporting.
+
+**Highlights**
+- Built data pipelines
+- Performed trend analysis
+- Designed efficient database queries
+- Created analytics-focused reports
+
+---
+
+### 4. YOLOv8 Mobile Phone Detection System
+**YOLOv8 | Python | ONNX | RKNN | Computer Vision**
+
+Worked on object detection workflows for identifying mobile phone usage from image data using YOLOv8n.
+
+**Highlights**
+- Trained YOLOv8n model
+- Generated `best.pt` weights
+- Tested sample detections
+- Explored ONNX and RKNN conversion
+- Visualized ONNX architecture using Netron
+
+---
+
+## 📊 Data Analytics Skills
+
+- Data Cleaning
+- Data Analysis
+- Exploratory Data Analysis
+- Data Visualization
+- Dashboard Development
+- KPI Tracking
+- Business Reporting
+- Statistical Analysis
+- Trend Analysis
+- Insight Generation
+
+---
+
+## 🤖 AI & Data Science Skills
+
+- Machine Learning
+- Natural Language Processing
+- Generative AI
+- Large Language Models
+- AI Agents
+- Recommendation Systems
+- Computer Vision
+- Object Detection
+- Model Evaluation
+- Feature Engineering
+
+---
+
+## 🏆 Achievements
+
+- 🏆 CodeChef 3-Star Rating — 1712
+- 🏆 Semi-Finalist — Convolve 4.0 GenAI Hackathon
+- 🏆 National Round — Flipkart Grid 7.0
+- 🏆 Top 10 — Code Clash IEEE-TEMS
+- 🏆 Contributor — Hacktoberfest
+- 🏆 Mentor — GirlScript Summer of Code
+
+---
+
+## 🌱 Open Source & Mentorship
+
+### Mentor — GirlScript Summer of Code
+Mentored participants in open-source projects by providing technical guidance, code reviews, and project support.
+
+Helped contributors improve their development skills and successfully complete project milestones.
+
+### Hacktoberfest Contributor
+Contributed to open-source projects through GitHub and gained hands-on experience in Git, GitHub, collaboration, and version control.
+
+---
+
+## 📌 Suggested Pinned Repositories
+
+1. `mcp-ai-project-allocation-system`
+2. `yolov8-mobile-phone-detection`
+3. `hr-analytics-dashboard`
+4. `finance-analytics-dashboard`
+5. `data-science-portfolio`
+6. `genai-projects`
+
+---
+
+## 📚 Topics I Work On
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Analytics-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Data%20Science-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Generative%20AI-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Agents-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-yellow?style=flat-square" />
+  <img src="https://img.shields.io/badge/NLP-teal?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tableau-lightblue?style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-navy?style=flat-square" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashajyothi06&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashajyothi06&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashajyothi06&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="mailto:ashajyothivelpula0506@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ashajyothivelpula0506%40gmail.com-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/ashajyothivelpula">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashajyothi%20Velpula-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ashajyothi06">
+    <img src="https://img.shields.io/badge/GitHub-ashajyothi06-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>“Turning data into insights and AI ideas into real-world solutions.”</b>
+</p>
