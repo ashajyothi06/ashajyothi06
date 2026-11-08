@@ -1,558 +1,96 @@
-<h1 align="center">Hi 👋, I'm Ashajyothi Velpula</h1>
+<h1 align="center">Hi 👋, I'm Ashajyothi Velpula</h1><h3 align="center">AI Engineer • Generative AI • Agentic AI • Computer Vision</h3><p align="center">
+Building intelligent systems with Python, LLMs, RAG, AI agents, computer vision, and edge AI.
+</p><p align="center">
+  <a href="mailto:ashajyothivelpula0506@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"/></a>
+  <a href="https://github.com/ashajyothi06"><img src="https://img.shields.io/badge/GitHub-ashajyothi06-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/ashajyothivelpula"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+</p>🤖 About Me
+I'm a Computer Science Engineering graduate and AI Fullstack Developer Intern at Gyaini Gini Pvt Ltd, focused on applying AI to real-world problems. My experience includes contributing to LLM-powered assistants, agentic workflows, computer vision pipelines, and deployment of AI models on edge hardware.
+- 🧠 Generative AI: LLM integration, prompt engineering, retrieval-augmented generation (RAG), embeddings and grounding evaluation
+- 🕸️ Agentic AI: LangChain, LangGraph, tool-using workflows, conditional routing and multi-agent concepts
+- 👁️ Computer Vision: YOLOv8, OpenCV, OCR, ONNX and RKNN
+- ⚙️ AI Systems: Python, FastAPI, REST APIs, MQTT, Node-RED and Linux
+- 🎯 Career focus: AI Engineer, Generative AI Engineer, Applied AI Engineer and Machine Learning Engineer
+🔬 Current Focus
+- Reliable RAG pipelines: chunking, embedding, retrieval, evidence checks and hallucination reduction
+- Agent orchestration with LangGraph and tool integrations
+- Conversational and voice-based AI with LLMs
+- Object detection, model conversion and edge inference
+- Evaluation, debugging and testing of AI applications
+🛠️ AI Tech Stack
+Area	Technologies
+Programming & Data	Python, NumPy, Pandas, scikit-learn, SQL
+LLMs & Generative AI	Qwen, Gemini, OpenAI APIs, prompt engineering, RAG, embeddings
+Agents & Orchestration	LangChain, LangGraph, AI agents, tool calling, conditional workflows
+Retrieval & Vector Search	SentenceTransformers, Pinecone, semantic search, document chunking
+Computer Vision	YOLOv8, OpenCV, OCR, ONNX, RKNN, image processing
+AI APIs & Integration	FastAPI, REST APIs, MQTT, Node-RED
+Development Tools	Git, GitHub, Linux, Docker basics, Postman, Jupyter Notebook
 
-<h3 align="center">
-MERN Stack Developer • AI Engineer • Generative AI Engineer • Full Stack Engineer
-</h3>
 
+💼 Experience
+AI Fullstack Developer Intern — Gyaini Gini Pvt Ltd
+Apr 2026 – Present
+
+Contributing to AI-powered applications and integration workflows:
+- Worked on YOLOv8 object detection and conversion of models to ONNX/RKNN for RK3588 edge AI devices.
+- Contributed to LLM-powered chatbot and real-time voice conversational AI integrations using Qwen Omni.
+- Worked with Python, APIs, MQTT and Node-RED to connect AI components, backend services and edge devices.
+- Supported debugging, testing and integration of AI workflows.
+🚀 Selected AI Projects
+📚 Agentic AI RAG Chatbot — Document-Grounded Question Answering
+Python • FastAPI • LangGraph • Pinecone • SentenceTransformers • Qwen
+
+Worked on a RAG system designed to answer questions from a supplied document while limiting unsupported responses.
+- PDF ingestion, text chunking, embedding generation and vector retrieval
+- LangGraph workflow for context assessment, answer generation and grounding checks
+- Similarity thresholds, controlled retries and refusal when evidence is insufficient
+- FastAPI endpoint returning answers, grounding information and retrieved context
+- Automated functional tests with pytest
+Workflow: Document → Chunking → Embeddings → Pinecone → Retrieve → Assess Evidence → Generate → Verify Grounding → Answer / Retry / Refuse
+🔎 Agentic AI Research Assistant
+Python • LangChain • LangGraph • Qwen • FastAPI
+
+Contributed to an agent-oriented research workflow involving:
+- Query planning, information retrieval and verification
+- Conditional routing and retry logic
+- Structured research summaries and report generation
+Workflow: Question → Plan → Search → Verify → Report
+🧩 MCP-AI Intelligent Project Allocation System
+Python • LLMs • AI Agents • NLP
+
+Worked on AI-based candidate-to-project matching concepts, including:
+- Skill and project-requirement analysis
+- LLM-assisted matching and recommendations
+- Agent-based workflow design
+👁️ Computer Vision & Edge AI
+YOLOv8 • OpenCV • ONNX • RKNN • RK3588
+- Object detection model integration and testing
+- Model conversion for resource-constrained edge hardware
+- Inference pipeline debugging and deployment workflows
+🧠 Areas I Enjoy Solving
+- AI reliability: keeping LLM responses grounded in available evidence
+- Agent workflows: coordinating retrieval, reasoning, verification and tools
+- Efficient inference: adapting computer vision models for edge devices
+- AI integration: connecting models with APIs and real-world applications
+🏆 Achievements
+- ⭐ CodeChef 3-Star — Rating 1712
+- 🏅 Flipkart GRID 7.0 — National round
+- 🏅 Convolve 4.0 GenAI Hackathon — Semi-finalist
+- 🏅 Quantathon, IIT Madras — Rank 32
+- 🏅 IEEE Code Clash — Top 10
+📌 Suggested Pinned Repositories
+Pin repositories only if they exist publicly and you are allowed to share their code:
+1. Agentic AI RAG Chatbot
+2. Agentic AI Research Assistant
+3. MCP-AI Intelligent Project Allocation System
+4. Computer Vision / Edge AI work (public, non-confidential samples only)
+📈 GitHub Activity
 <p align="center">
-Building production-ready full-stack and AI-powered applications using React, Node.js, MongoDB, Python, FastAPI, LLMs, RAG, AI Agents, and Computer Vision.
-</p>
-
+  <img height="170" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashajyothi06&theme=tokyonight&hide_border=true" alt="GitHub streak stats"/>
+</p>📫 Let's Connect
 <p align="center">
-  <a href="mailto:ashajyothivelpula0506@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-
-  <a href="https://github.com/ashajyothi06">
-    <img src="https://img.shields.io/badge/GitHub-ashajyothi06-black?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://linkedin.com/in/ashajyothivelpula">
-    <img src="https://img.shields.io/badge/LinkedIn-Ashajyothi%20Velpula-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
-
----
-
-# 👨‍💻 About Me
-
-I'm a **MERN Stack + AI Engineer** with hands-on experience building full-stack web applications, backend APIs, AI-powered systems, and intelligent automation workflows.
-
-I enjoy developing complete products end to end — from responsive React interfaces and Node.js/FastAPI backends to databases, authentication, APIs, LLM integrations, RAG pipelines, AI agents, and production-oriented deployment workflows.
-
-* 🎓 B.Tech in Computer Science & Engineering
-* 💻 AI Fullstack Developer Intern
-* 🌐 Building MERN and full-stack web applications
-* 🤖 Developing LLM, RAG, and AI Agent applications
-* ⚡ Backend development using Node.js, Express.js, FastAPI, and REST APIs
-* 🗄️ Working with MongoDB, PostgreSQL, and MySQL
-* 👁️ Computer Vision using YOLO, OpenCV, OCR, ONNX, and RKNN
-* 🚀 Interested in Full Stack Engineer, MERN Developer, AI Engineer, and Software Engineer roles
-
----
-
-# 🚀 Current Focus
-
-* MERN Stack Development
-* React.js Frontend Engineering
-* Node.js & Express.js Backend Development
-* MongoDB & SQL Databases
-* REST API Design & Integration
-* Authentication & Authorization
-* Large Language Models
-* Retrieval-Augmented Generation
-* AI Agents & Multi-Agent Systems
-* FastAPI AI Backends
-* Computer Vision
-* AI Workflow Automation
-
----
-
-# 🛠 Tech Stack
-
-## Programming Languages
-
-Python • JavaScript • Java • SQL
-
-## Frontend
-
-* React.js
-* JavaScript ES6+
-* HTML5
-* CSS3
-* Redux
-* Context API
-* Responsive UI
-* REST API Integration
-
-## Backend
-
-* Node.js
-* Express.js
-* FastAPI
-* Flask
-* REST APIs
-* JWT Authentication
-* API Integration
-* WebSockets
-* Socket.IO
-
-## Databases
-
-* MongoDB
-* PostgreSQL
-* MySQL
-* SQLAlchemy
-
-## Generative AI
-
-* Large Language Models
-* Prompt Engineering
-* Retrieval-Augmented Generation
-* Embeddings
-* Vector Search
-* Semantic Search
-* AI Agents
-* Multi-Agent Systems
-* LangChain
-* LangGraph
-* Qwen LLM Integration
-
-## Machine Learning
-
-* Scikit-learn
-* Pandas
-* NumPy
-* Feature Engineering
-* Model Evaluation
-* Classification
-* Regression
-
-## Computer Vision
-
-* YOLOv8
-* OpenCV
-* OCR
-* ONNX
-* RKNN
-* SAM 2.1
-* Image Processing
-* Edge AI
-
-## Tools & Deployment
-
-Git • GitHub • Linux • Docker • Postman • VS Code • Vercel
-
----
-
-# 💼 Experience
-
-## AI Fullstack Developer Intern
-
-### Gyaini Gini Pvt Ltd
-
-**Apr 2026 – Present | Remote**
-
-Working on production-oriented AI and full-stack systems involving:
-
-* Python backend development
-* FastAPI / Flask APIs
-* Large Language Models
-* RAG pipelines
-* Conversational AI
-* Computer Vision
-* YOLOv8
-* ONNX / RKNN deployment
-* Linux environments
-* API integration
-* MQTT / Node-RED workflows
-* AI workflow automation
-
----
-
-# 🌟 Role-Relevant Projects
-
-## 1. Real-Time Chat Application
-
-### Flask + React + Socket.IO
-
-**Tech:** Python • Flask • React.js • SQLAlchemy • JWT • Socket.IO • SQLite
-
-Built a full-stack one-to-one real-time chat platform with authentication, persisted conversations, and live messaging.
-
-### Highlights
-
-* Built React frontend with dynamic user and conversation state
-* Developed Flask REST APIs for authentication, users, and message history
-* Implemented JWT-based authentication
-* Used Flask-SocketIO for real-time messaging
-* Added user-specific Socket.IO rooms
-* Implemented typing indicators
-* Persisted messages using SQLAlchemy
-* Added duplicate message protection
-* Used REST for history and Socket.IO for live updates
-
-### Architecture
-
-```text
-React Frontend
-      │
-      ├── REST APIs ──────► Flask Backend
-      │                      │
-      │                      ├── JWT Authentication
-      │                      ├── SQLAlchemy
-      │                      └── SQLite
-      │
-      └── Socket.IO ──────► Real-Time Messaging
-```
-
----
-
-## 2. MERN Chat Application
-
-### Full Stack Messaging Platform
-
-**Tech:** MongoDB • Express.js • React.js • Node.js
-
-Developed a full-stack messaging application using the MERN stack with frontend-backend integration and persistent user data.
-
-### Highlights
-
-* React-based responsive frontend
-* Node.js / Express backend
-* REST API integration
-* MongoDB persistence
-* Authentication workflows
-* Modular component design
-* Full-stack client-server architecture
-
----
-
-## 3. Hoomora — Hostel Finder Platform
-
-### React + Backend API Integration
-
-**Tech:** React.js • JavaScript • REST APIs • Python Backend
-
-Built a hostel discovery platform enabling users to browse, filter, and compare hostel listings.
-
-### Highlights
-
-* Responsive React UI
-* Reusable frontend components
-* Dynamic data fetching
-* REST API integration
-* Search and filtering workflows
-* Frontend-backend integration
-* Mobile-friendly design
-
----
-
-## 4. Library Management System
-
-### Full Stack Web Application
-
-**Tech:** Python • Flask/Django • React.js • MySQL/PostgreSQL • SQLAlchemy
-
-Built a full-stack application for managing books, users, issue/return workflows, and administrative operations.
-
-### Highlights
-
-* CRUD APIs
-* Relational database design
-* Role-based access
-* ORM-based database interaction
-* Search and filtering
-* Backend validation
-* React-based interface
-* REST API integration
-
----
-
-# 🤖 Featured AI Projects
-
-## 5. Agentic AI Research Assistant
-
-### Multi-Agent Research Automation
-
-**Tech:** Python • LangChain • LangGraph • Qwen • FastAPI
-
-Designed a multi-agent research assistant for autonomous research workflows.
-
-### Highlights
-
-* Planning agent
-* Web search agent
-* Verification agent
-* Report generation agent
-* Stateful LangGraph workflows
-* Conditional routing
-* Tool integration
-* Structured output generation
-* Memory-backed task execution
-
-### Workflow
-
-```text
-User Query
-   ↓
-Planner
-   ↓
-Search
-   ↓
-Verification
-  ↙      ↘
-Retry    Report
-          ↓
-         End
-```
-
----
-
-## 6. RAG-Based Document Q&A
-
-**Tech:** Python • FastAPI • LangChain • LLMs • Embeddings
-
-Built a retrieval-augmented document question-answering system.
-
-### Highlights
-
-* Document preprocessing
-* Chunking
-* Embedding generation
-* Vector search
-* Context retrieval
-* Semantic search
-* LLM-based answer generation
-* API-driven architecture
-
-### Flow
-
-```text
-Documents
-   ↓
-Chunking
-   ↓
-Embeddings
-   ↓
-Vector Store
-   ↑
-User Query
-   ↓
-Retriever
-   ↓
-Context
-   ↓
-LLM
-   ↓
-Answer
-```
-
----
-
-## 7. MCP-AI Intelligent Project Allocation System
-
-**Tech:** Python • LLMs • AI Agents • NLP
-
-Built an intelligent project allocation platform that matches candidates with projects using AI-driven analysis.
-
-### Highlights
-
-* Skill extraction
-* Requirement analysis
-* AI agent workflow
-* Recommendation logic
-* Candidate-project matching
-* LLM reasoning
-
----
-
-## 8. AI Knowledge Assistant
-
-**Tech:** Python • FastAPI • LLM • RAG
-
-Built an enterprise knowledge assistant that retrieves information from organizational sources.
-
-### Highlights
-
-* Semantic retrieval
-* Prompt engineering
-* LLM integration
-* Document intelligence
-* Context-aware responses
-* API-based architecture
-
----
-
-# 👁️ Computer Vision Projects
-
-## License Plate Detection & OCR
-
-**Tech:** YOLOv8 • OpenCV • OCR • ONNX • RKNN
-
-### Highlights
-
-* Vehicle detection
-* License plate localization
-* OCR extraction
-* Character confidence
-* Model conversion
-* Edge AI deployment
-* Inference optimization
-
----
-
-## Human Action Recognition
-
-**Tech:** Python • Deep Learning • Computer Vision
-
-### Highlights
-
-* Human activity recognition
-* Deep learning
-* Image processing
-* Model evaluation
-
----
-
-# 💡 Technical Strengths
-
-## Full Stack Engineering
-
-* React component architecture
-* Responsive UI development
-* Node.js backend development
-* REST API design
-* Authentication
-* Database integration
-* Client-server architecture
-* Debugging
-* API integration
-* WebSockets
-* Real-time applications
-
-## Generative AI
-
-* LLM integration
-* Prompt engineering
-* RAG
-* Embeddings
-* Vector retrieval
-* AI agents
-* Multi-agent workflows
-* LangChain
-* LangGraph
-* Tool calling
-
-## Backend Engineering
-
-* FastAPI
-* Flask
-* Node.js
-* Express.js
-* REST APIs
-* JWT
-* SQLAlchemy
-* Database integration
-* API security fundamentals
-
-## Machine Learning
-
-* Supervised learning
-* Classification
-* Regression
-* Data preprocessing
-* Feature engineering
-* Model evaluation
-
-## Computer Vision
-
-* Object detection
-* OCR
-* YOLO
-* Image processing
-* Model conversion
-* Edge AI
-
----
-
-# 🏆 Achievements
-
-🏆 CodeChef 3⭐ — Rating 1712
-
-🏆 Flipkart Grid 7.0 — National Semi-Finalist
-
-🏆 Convolve 4.0 GenAI — Semi-Finalist
-
-🏆 Quantathon — IIT Madras Finalist
-
-🏆 IEEE Code Clash — Top 10
-
-🏆 Hacktoberfest Contributor
-
-🏆 GirlScript Summer of Code Mentor
-
----
-
-# 📌 Suggested Pinned Repositories
-
-For a **MERN + AI Engineer profile**, I recommend pinning these in this order:
-
-1. `realtime-chat-app`
-2. `mern-chat-application`
-3. `agentic-ai-research-assistant`
-4. `rag-document-qa`
-5. `mcp-ai-project-allocation-system`
-6. `hoomora-hostel-finder`
-
-This order immediately shows recruiters:
-
-```text
-Full Stack
-   +
-MERN
-   +
-Backend
-   +
-AI / GenAI
-```
-
-instead of presenting you only as an AI candidate.
-
----
-
-# 🎯 Roles I'm Interested In
-
-* MERN Stack Developer
-* Full Stack Developer
-* Software Engineer
-* React Developer
-* Backend Developer
-* AI Engineer
-* Generative AI Engineer
-* Applied AI Engineer
-* AI Full Stack Engineer
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170em" src="https://github-readme-streak-stats-eight.vercel.app/?user=ashajyothi06&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="mailto:ashajyothivelpula0506@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/ashajyothivelpula">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/ashajyothi06">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-<b>"Building full-stack products and intelligent AI systems using MERN, Python, LLMs, RAG, AI Agents, and modern software engineering."</b>
-</p>
+  <a href="mailto:ashajyothivelpula0506@gmail.com">Email</a> •
+  <a href="https://github.com/ashajyothi06">GitHub</a> •
+  <a href="https://linkedin.com/in/ashajyothivelpula">LinkedIn</a>
+</p><p align="center"><b>“Building reliable, practical AI systems — from intelligent agents to edge AI.”</b></p>
